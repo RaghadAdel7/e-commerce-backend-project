@@ -3102,19 +3102,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\talal\\.nuget\\packages\\": {}
+    "C:\\Users\\sstudent\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\talal\\Desktop\\p\\Backend-project-\\Backend.csproj",
+      "projectUniqueName": "C:\\Users\\sstudent\\Documents\\Backend-project-AEKI-Store\\Backend.csproj",
       "projectName": "Backend",
-      "projectPath": "C:\\Users\\talal\\Desktop\\p\\Backend-project-\\Backend.csproj",
-      "packagesPath": "C:\\Users\\talal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\talal\\Desktop\\p\\Backend-project-\\obj\\",
+      "projectPath": "C:\\Users\\sstudent\\Documents\\Backend-project-AEKI-Store\\Backend.csproj",
+      "packagesPath": "C:\\Users\\sstudent\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sstudent\\Documents\\Backend-project-AEKI-Store\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\talal\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\sstudent\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
