@@ -11,6 +11,7 @@ namespace src.DTO
             public string ProductName { get; set; }
             public string ProductColor { get; set; }
             public string? Description { get; set; }
+            public string ProductImage { get; set; }
             public int SKU { get; set; }
             public decimal ProductPrice { get; set; }
             public decimal Weight { get; set; }
@@ -29,6 +30,7 @@ namespace src.DTO
             public DateTime AddedDate { get; set; }
             public string ProductColor { get; set; }
             public string Description { get; set; }
+            public string ProductImage { get; set; }
             public int SKU { get; set; }
             public decimal ProductPrice { get; set; }
             public decimal Weight { get; set; }
@@ -42,6 +44,7 @@ namespace src.DTO
             public string ProductName { get; set; }
             public string ProductColor { get; set; }
             public string Description { get; set; }
+            public string ProductImage { get; set; }
             public int SKU { get; set; }
             public decimal ProductPrice { get; set; }
             public decimal Weight { get; set; }
