@@ -5,8 +5,7 @@ EXPOSE 5125
 ENV ASPNETCORE_URLS=http://0.0.0.0:5125
 
 USER app
-FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
-ARG configuration=Release
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS buildARG configuration=Release
 WORKDIR /src
 COPY ["Backend.csproj", "./"]
 RUN dotnet restore "Backend.csproj"
